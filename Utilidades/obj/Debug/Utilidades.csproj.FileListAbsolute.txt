@@ -1,0 +1,8 @@
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\bin\Debug\Newtonsoft.Json.dll
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\bin\Debug\Newtonsoft.Json.xml
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\obj\Debug\Utilidades.csproj.CopyComplete
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\earciniega\Nextcloud\Programacion\MercedesBenzWeb\LocalServices\MercedesBenzLocal\Utilidades\obj\Debug\Utilidades.pdb
